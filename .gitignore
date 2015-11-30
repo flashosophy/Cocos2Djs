@@ -1,0 +1,10 @@
+
+.idea
+
+frameworks/js-bindings/bindings/proj.ios_mac/build
+
+frameworks/js-bindings/cocos2d-x/build
+
+frameworks/runtime-src/proj.ios_mac/build
+
+runtime
